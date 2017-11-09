@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+div{
+    width: 200px;
+    height: 200px;
+    color: white;
+    display: inline-block;
+    margin-bottom: 50px;
+    border: 5px solid black;
+}
+.wrong{
+    background-color: red;
+}
+.right{
+    background-color: green;
+}
+.clue{
+    margin-top: 40%;
+}
+.success{
+    margin-top: 25%;
+}
+.button{
+    box-shadow: 2px 2px 1px black;
+    margin-top: 1em;
+}
